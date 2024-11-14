@@ -5,16 +5,22 @@
          web-server/servlet-env
          "handlers.rkt")
 
-;; Definimos el puerto desde la variable de entorno 'PORT', con valor predeterminado 3000
-(define puerto (string->number (or (getenv "PORT") "8080")))
+;; Función mejorada para obtener el puerto desde la variable de entorno
+(define (get-port)
+  (let ([port-str (getenv "PORT")])
+    (if port-str
+        (string->number port-str)
+        8080))) ; Puerto por defecto si no hay variable de entorno
 
-;; Iniciamos el servidor web
+;; Iniciamos el servidor web con la configuración necesaria para Railway
 (serve/servlet 
  start  ; La función 'start' está definida en handlers.rkt
  #:launch-browser? #f  ; No abrimos automáticamente el navegador
  #:quit? #f  ; El servidor no se detendrá automáticamente
- #:port puerto  ; El servidor escuchará en el puerto de la variable de entorno 'PORT'
- #:servlet-regexp #rx"")  ; Todas las rutas serán manejadas por nuestro servlet
+ #:listen-ip #f  ; Esto permite escuchar en todas las interfaces
+ #:port (get-port)  ; Usamos la función get-port para obtener el puerto
+ #:servlet-regexp #rx""  ; Todas las rutas serán manejadas por nuestro servlet
+ #:command-line? #t)  ; Permite que el servidor se ejecute desde línea de comandos
 
 ;; Imprimimos un mensaje para indicar que el servidor está en funcionamiento
-(displayln (string-append "Servidor iniciado en el puerto " (number->string puerto)))
+(displayln (format "Servidor iniciado en el puerto ~a" (get-port)))
