@@ -1,0 +1,7 @@
+7|clavito@example.com|elprofe@una.ac.cr|Re: Prueba|Gracias totales|2024-10-21|recibido|false
+6|elprofe@una.ac.cr|clavito@example.com|Re: Re: Prueba|Re-Respuesta|2024-10-21|enviado|false
+5|clavito@example.com|elprofe@una.ac.cr|Re: Prueba|Gracias totales|2024-10-21|recibido|true
+4|elprofe@una.ac.cr|clavito@example.com|Prueba|¡Excelente trabajo!|2024-10-21|enviado|false
+3|elprofe@una.ac.cr|juan@example.com|¡FELICIDADES!!!|Chicos EXTREMADANTE impresionado... Muy agradecido por el semestre que hicieron... Espero verlos en futuros grupos ¡son un equipazo!|2024-10-14|enviado|false
+2|jmovi@una.ac.cr|elprofe@una.ac.cr|Saludos|Este es un mensaje para el profe, cobramos el servicio barato.|2024-10-14|recibido|false
+1|juan@example.com|elprofe@una.ac.cr|Melannie|Hola Profe|2024-10-14|recibido|false

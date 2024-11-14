@@ -1,0 +1,4 @@
+4|elprofe@una.ac.cr|juan@example.com|¡FELICIDADES!!!|Chicos EXTREMADANTE impresionado... Muy agradecido por el semestre que hicieron... Espero verlos en futuros grupos ¡son un equipazo!|2024-10-14|recibido|false
+3|juan@example.com|elprofe@una.ac.cr|Melannie|Hola Profe|2024-10-14|enviado|false
+2|alice@example.com|juan@example.com|Re: Hola 1|Respuesta de prueba 1|2023-05-21|recibido|true
+1|juan@example.com|alice@example.com|Hola 1|Mensaje de prueba 1|2023-05-20|enviado|true

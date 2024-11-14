@@ -1,0 +1,2 @@
+2|clavito@example.com|erick@example.com|Re: Hola clavito|Muy bien!!! Y usted?|2024-10-27|enviado|false
+1|erick@example.com|clavito@example.com|Hola clavito|Hola como esta?|2024-10-27|recibido|false

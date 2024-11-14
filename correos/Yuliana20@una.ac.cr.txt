@@ -1,0 +1,1 @@
+1|erick@example.com|Yuliana20@una.ac.cr|Saludo|Hola Yulii|2024-10-27|recibido|false

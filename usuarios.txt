@@ -1,0 +1,9 @@
+1|Juan|juan@example.com|password123
+2|Alice|alice@example.com|securepass
+3|Erick|erick@example.com|1234
+4|clavito|clavito@example.com|1234
+5|jmovi|jmovi@una.ac.cr|montero123
+6|ElProfe|elprofe@una.ac.cr|elprofe123
+7|Yuliana|Yuliana20@una.ac.cr|12345678
+8|Pablo|clavito@una.ac.cr|12345678
+9|Josue|Josue2005@una.ac.cr|12345678

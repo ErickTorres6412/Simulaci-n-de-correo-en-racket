@@ -1,0 +1,8 @@
+8|clavito@example.com|alice@example.com|Hiwq|ad|2024-10-20|recibido|false
+7|clavito@example.com|alice@example.com|Trabajo|Buscando chamba|2024-10-20|recibido|false
+6|clavito@example.com|alice@example.com|Hi|Hola|2024-10-11|recibido|true
+5|juan@example.com|alice@example.com|Hola 3|Mensaje de prueba 3|2023-05-24|recibido|true
+4|alice@example.com|juan@example.com|Re: Hola 2|Respuesta de prueba 2|2023-05-23|enviado|true
+3|juan@example.com|alice@example.com|Hola 2|Mensaje de prueba 2|2023-05-22|recibido|true
+2|alice@example.com|juan@example.com|Re: Hola 1|Respuesta de prueba 1|2023-05-21|enviado|true
+1|juan@example.com|alice@example.com|Hola 1|Mensaje de prueba 1|2023-05-20|recibido|true

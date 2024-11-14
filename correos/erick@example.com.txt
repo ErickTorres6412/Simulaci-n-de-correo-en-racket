@@ -1,0 +1,9 @@
+9|Josue2005@una.ac.cr|erick@example.com|Re: Prueba 2|Prueba de responder correo.|2024-10-28|recibido|false
+8|erick@example.com|Josue2005@una.ac.cr|Prueba 2|Hola, probando el limite de caracteres|2024-10-28|enviado|false
+7|erick@example.com|Josue2005@una.ac.cr|Prueba|Hola|2024-10-28|enviado|false
+6|Josue2005@una.ac.cr|erick@example.com|Re: Re: Saludo de buenos dias.|Me encuentro muy bien igual, era para ver si le dabamos unas partiditas de fortnite. Se apunta?|2024-10-28|recibido|false
+5|erick@example.com|Josue2005@una.ac.cr|Re: Saludo de buenos dias.|Hola Josue, muy bien por dicha!!!. En que puedo ayudarle|2024-10-28|enviado|false
+4|Josue2005@una.ac.cr|erick@example.com|Saludo de buenos dias.|Hola erick, como esta, espero se encuentre bien.|2024-10-28|recibido|false
+3|erick@example.com|Yuliana20@una.ac.cr|Saludo|Hola Yulii|2024-10-27|enviado|false
+2|clavito@example.com|erick@example.com|Re: Hola clavito|Muy bien!!! Y usted?|2024-10-27|recibido|false
+1|erick@example.com|clavito@example.com|Hola clavito|Hola como esta?|2024-10-27|enviado|false
